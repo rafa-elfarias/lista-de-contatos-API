@@ -1,7 +1,7 @@
 ## Instalação
 
 ```bash
-$ https://github.com/rafaelrj/API-Lista-de-Contatos.git
+$ git clone https://github.com/rafaelrj/API-Lista-de-Contatos.git
 
 $ cd laravel-auth-rest-api
 
@@ -50,6 +50,8 @@ $ php artisan serve
 ## Endpoints
 
 * Registra usuário: `POST /api/register`
+
+---
 
 * Login: `POST /api/login`
 
