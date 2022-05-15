@@ -1,9 +1,17 @@
 ## Instalação
 
-```bash
-$ git clone https://github.com/rafaelrj/API-Lista-de-Contatos.git
+# Lista de contatos (API)
 
-$ cd laravel-auth-rest-api
+* Lista de contatos
+* Criar contato
+* Atualizar contato
+* Deletar contato
+* Buscar contato
+
+```bash
+$ git clone https://github.com/rafaelrj/lista-de-contatos-API.git
+
+$ cd https://github.com/rafaelrj/lista-de-contatos-API
 
 $ composer install
 ```
