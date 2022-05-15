@@ -1,5 +1,3 @@
-## Instalação
-
 # Lista de contatos (API)
 
 * Lista de contatos
@@ -7,6 +5,8 @@
 * Atualizar contato
 * Deletar contato
 * Buscar contato
+
+## Instalação
 
 ```bash
 $ git clone https://github.com/rafaelrj/lista-de-contatos-API.git
