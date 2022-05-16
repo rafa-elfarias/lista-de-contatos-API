@@ -1,4 +1,5 @@
 # Lista de contatos (API)
+Teste referente a processo seletivo, envio ao GitHub solicitado pela empresa.
 
 * Lista de contatos
 * Criar contato
